@@ -8,31 +8,31 @@ Within the <head> element:
 
 - *Title*
 - *Heading* (h1)
-  -- A greeting of your choice
+  + A greeting of your choice
 
 Within the <body> element:
 
 - *Heading* (3)
-  -- "Team Name"
-  -- "Team Members"
-  -- "What each team member would like to accomplish by the end of the program"
+  + "Team Name"
+  + "Team Members"
+  + "What each team member would like to accomplish by the end of the program"
   _Note_ Use different levels of document headings
 
 - *Ordered List* (1)
-  -- Member name by ascending order of birth month as *List Items*
+  + Member name by ascending order of birth month as *List Items*
 
 - *Paragraph* (3)
-  -- Memorable fact about each team member as *List Items*
+  + Memorable fact about each team member as *List Items*
 
 - *Unordered List* (1)
-  -- Each member personal program goal as *List Items*
+  + Each member personal program goal as *List Items*
 
 ##Link CSS to HTML
 
 Within the <header> element:
 
 - *Link*
-  -- `styles.css` with _relation_ "stylesheet" and _href_ file location
+  + `styles.css` with _relation_ "stylesheet" and _href_ file location
 
 ##Add Styles to HTML from CSS
 
