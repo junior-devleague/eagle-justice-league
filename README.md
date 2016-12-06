@@ -4,13 +4,13 @@
 
 Create a web page using the following HTML elements:
 
-Within the <head> element:
+Within the `head` element:
 
 - *Title*
 - *Heading* (h1)
   + A greeting of your choice
 
-Within the <body> element:
+Within the `body` element:
 
 - *Heading* (3)
   + "Team Name"
@@ -29,27 +29,27 @@ Within the <body> element:
 
 ##Link CSS to HTML
 
-Within the <header> element:
+Within the `header` element:
 
 - *Link*
   + `styles.css` with _relation_ "stylesheet" and _href_ file location
 
 ##Add Styles to HTML from CSS
 
-For the <body> element:
+For the `body` element:
 
 - Declare the _value_ of the _property_ `background-color` to a color of your choice
 
-For each element within the <body> element:
+For each element within the `body` element:
 
 - Declare the _value_ of the _property_ `background-color` to a color of your choice
 *Note* Each element must have a different `background-color` from one another.
 
-For each <p> element within the <body> element:
+For each `p` element within the `body` element:
 
 - Declare the _value_ of the _property_ `font-size` to `10px`
 
-For each <li> element with the <body> element:
+For each `li` element with the `body` element:
 
 - Declare the _value_ of the _property_ `border-style` to `solid`
 
