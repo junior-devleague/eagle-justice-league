@@ -1,0 +1,19 @@
+body {
+  background-color: blue;
+}
+
+h2 {
+  background-color: purple;
+}
+
+h4 {
+  background-color: red;
+}
+
+p {
+  font-size: 10px;
+}
+
+li {
+  border-style: solid;
+}
