@@ -24,45 +24,24 @@ To create a simple web application using **HTML elements** and style with CSS.
 
 
 _Note: Remember to make a commit after each html element is added!_
->
+
 ##Part 2 - CSS
 >
 ##Set up
 1. Create a new file called `styles.css`
 2. Link your CSS file in your HTML
-
-
+>
+>
 ##Your Challenge
-1. Add Styles to HTML from CSS
-
-
-For the `body` element:
-
-
-- Declare the _value_ of the _property_ `background-color` to a color of your choice
-
-
-For each element within the `body` element:
-
-
-- Declare the _value_ of the _property_ `background-color` to a color of your choice
-*Note* Each element must have a different `background-color` from one another.
-
-
-For each `p` element within the `body` element:
-
-
-- Declare the _value_ of the _property_ `font-size` to `10px`
-
-
-For each `li` element with the `body` element:
-
-
-- Declare the _value_ of the _property_ `border-style` to `solid`
-
-
-*Bonus* Modify the values of 5 different elemenet properties and make your picture a 300px by 300px size.
-
-
-
+>
+1. Using the `body` selector, change the following:
+  + The _value_ of the _property_ **background-color** to a color of your choice
+>
+2. Using the `p` selector, change the following:
+  + The _value_ of the _property_ **font-size** to `10px`
+>
+3. Using the `li` selector, change the following:
+  + The _value_ of the _property_ **border-style** to `solid`
+>
+_Bonus: Modify the values of 5 different element properties and make your picture a 300px by 300px size._
 
